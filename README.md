@@ -91,6 +91,7 @@ Responds with an array of MenuItem objects (or an error message if something goe
 ---
 
 ### **Example Submission**
+![Screenshot 2025-02-28 142148](https://github.com/user-attachments/assets/a78fa3ed-fe36-4996-a832-a46de89cbca2)
 
 If your GitHub username is `johnDoe` and the repository name is `assignment-repo`, the submission link would look like this:  
 **`https://github.com/johnDoe/assignment-repo`**
